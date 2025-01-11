@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviews sentyment analysis
+title: Reviews sentiment analysis
 image: "/posts/text_classification.jpg"
 tags: [Python, NLP, Classification]
 ---
