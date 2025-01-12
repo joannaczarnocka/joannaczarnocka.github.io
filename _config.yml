@@ -25,7 +25,7 @@ avatar_image: /img/profile_picture.jpg
 linkedln: "https://www.linkedin.com/in/joanna-czarnocka/" # Add your linkedln handle
 github: "https://github.com/joannaczarnocka"  # Add your github handle
 
-paginate: 12
+paginate: 24
 paginate_path: "/page/:num"
 
 sass:
